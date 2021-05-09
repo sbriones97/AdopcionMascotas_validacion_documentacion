@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Salvador y Victoria",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@cloudant/cloudant": "^4.3.1",
+    "@ibm-cloud/cloudant": "0.0.15",
+    "cloudant": "^1.10.0-NOTICE"
+  }
 }
